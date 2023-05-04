@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Update Docs Home and Neural Magic pages (#7243)
