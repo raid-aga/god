@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Add simple-utilities.md Docs page (#8269)
