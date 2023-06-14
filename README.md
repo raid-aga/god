@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
