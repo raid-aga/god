@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Auto-format by https://ultralytics.com/actions
