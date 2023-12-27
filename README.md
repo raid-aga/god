@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
