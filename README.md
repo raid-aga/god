@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
