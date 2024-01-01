@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
