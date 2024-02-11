@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Replacing Images for torchscript.md (#8596)
