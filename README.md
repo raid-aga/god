@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add Neural Magic Docs integrations page (#7234)
