@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Allow Annotator PIL.Image inputs (#8397)
