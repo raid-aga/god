@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
