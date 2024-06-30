@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Elaborate Train and Predict mode docs arguments (#8137)
