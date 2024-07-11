@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
