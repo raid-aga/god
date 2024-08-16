@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Fix bbox2segment converter (#7814)
