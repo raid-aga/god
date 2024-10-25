@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
