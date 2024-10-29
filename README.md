@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add Amazon Sagemaker Docs integrations page (#7293)
