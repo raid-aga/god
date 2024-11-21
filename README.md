@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Model typehints Docker fix (#8306)
